@@ -1,7 +1,7 @@
 {
   "name": "social_network",
   "version": "1.0.0",
-  "main": "index .js",
+  "main": "index.js",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watchAll --runInBand",
