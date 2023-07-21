@@ -1,6 +1,6 @@
 const request = require("supertest");
 const app = require("../index ");
-const Post = require("../models/Post");
+const Post = require("../models/post");
 
 describe("testing/users", () => {
   const post = {
